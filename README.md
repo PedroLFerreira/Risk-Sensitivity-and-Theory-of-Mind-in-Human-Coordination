@@ -1,3 +1,5 @@
+[![MIT License][license-shield]][license-url]
+
 # Risk Sensitivity and Theory of Mind in Human Coordination
 ## Authors
 * *[Pedro L. Ferreira](https://pedrolferreira.github.io/)* (1)
@@ -20,7 +22,13 @@ The code is written in Python Jupyter notebooks.
  - SciPy
 
 ## License
-Distributed under the MIT License, allowing unconditional use for academic purposes. See LICENSE for more information.
+Distributed under the MIT License, allowing unrestricted use for academic purposes. See `LICENSE` for more information.
 
 ## Contact
 Pedro L. Ferreira - mainminmax@gmail.com
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
+[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
