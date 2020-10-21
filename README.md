@@ -19,5 +19,8 @@ The code is written in Python Jupyter notebooks.
  - Matplotlib
  - SciPy
 
- ## Contact
- Pedro L. Ferreira - mainminmax@gmail.com
+## License
+Distributed under the MIT License, allowing unconditional use for academic purposes. See LICENSE for more information.
+
+## Contact
+Pedro L. Ferreira - mainminmax@gmail.com
