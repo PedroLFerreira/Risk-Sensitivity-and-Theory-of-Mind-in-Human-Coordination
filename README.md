@@ -18,9 +18,6 @@ The code is written in Python Jupyter notebooks.
  - Numpy
  - Matplotlib
  - SciPy
- 
- ## License
- Distributed under the MIT License.
- 
+
  ## Contact
  Pedro L. Ferreira - mainminmax@gmail.com
