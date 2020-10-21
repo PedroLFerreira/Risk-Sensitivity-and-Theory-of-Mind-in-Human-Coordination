@@ -6,7 +6,7 @@
 
  (1) [INESC-ID](https://inesc-id.pt/) and [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/),  [Universidade de Lisboa](https://www.ulisboa.pt/en), Portugal
  
- (2) [Delft Center for Systems and Control](https://www.tudelft.nl/en/3me/about/departments/delft-center-for-systems-and-control/), [Technische Universiteit Delft](https://www.tudelft.nl/en/), Netherlands
+ (2) [Delft Center for Systems and Control](https://www.tudelft.nl/en/3me/about/departments/delft-center-for-systems-and-control/), [TU Delft](https://www.tudelft.nl/en/), Netherlands
 
 ## About
 Code used to produce the figures of the academic paper "Risk Sensitivity and Theory of Mind in Human Coordination".
